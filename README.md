@@ -1,7 +1,7 @@
 # 💫 About Me: 
 <img align="right" width="220" src="https://i.pinimg.com/originals/69/be/7e/69be7e1f5343b7ebf9632ec5e554f1f6.gif" />
 
-🔭 I’m currently working on Cloud-Based Ambulance Booking System – DevOps Module<br><br>🌱 I’m currently learning LangChain, LangGraph, n8n, AI/ML in Python,DSA in Python,Kubernetes,Docker and Kotlin<br><br>👯 I’m looking to collaborate on AI Agent & Automation Projects using LangChain, LangGraph, and n8n<br><br>🤝 I’m looking for help with Advanced AI Workflow Integrations & Deployment Strategies<br><br>💬 Ask me about Android and Web Development, DevOps Pipelines, Cybersecurity, IoT System Design, AI Agent Automation<br><br>📫 How to reach me vidushibhardwaj.217051<br><br>⚡ Fun fact I love to trek and travel.
+🔭 I’m currently working on Cloud-Based Ambulance Booking System – DevOps Module<br><br>🌱 I’m currently learning LangChain, LangGraph, n8n, AI/ML in Python,DSA in Python,Kubernetes,Docker and Kotlin<br><br>👯 I’m looking to collaborate on AI Agent & Automation Projects using LangChain, LangGraph, and n8n<br><br>🤝 I’m looking for help with Advanced AI Workflow Integrations & Deployment Strategies<br><br>💬 Ask me about Android and Web Development, DevOps Pipelines, AI Agent Automation<br><br>📫 How to reach me vidushibhardwaj.217051<br><br>⚡ Fun fact I love to trek and travel.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vidushi-8465&color=blueviolet&style=flat-square&label=Profile+Views)
 
